@@ -1,4 +1,4 @@
-### Random Joke Generator App
+# Random Joke Generator App
 ## Overview
 An app that randomly generates programming related jokes. 
 
