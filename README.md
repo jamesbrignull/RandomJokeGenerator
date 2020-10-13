@@ -1,3 +1,13 @@
-Random Joke Generator. 
+### Random Joke Generator App
+## Overview
+An app that randomly generates programming related jokes. 
 
-Using some basic javascript and a joke generator API, I created this random programming joke generator as part of the 'fetch basics' course on scrimba. 
+## Tech Stack Used
+* HTML
+* CSS
+* JavaScript
+
+## Key Takeaways
+* Fetching APIs - one of my first apps fetching info from an API
+* async/await - learnt and utilised async/await feature and learnt about the concepts of asynchronous programming.
+* Programming jokes are _*NOT*_ funny haha
